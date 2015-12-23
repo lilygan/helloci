@@ -1,4 +1,4 @@
-hello ci!
+Edited by Lily
 =======
 
 Test projects for "Hello, CI" training
